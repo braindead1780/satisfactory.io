@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T18:21:28.129Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.64" etag="bLXyl5RZ-XfCnJCB6SnN" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-01T19:53:51.102Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.64" etag="3-qr0B_zBLvu1Ml5LNYC" version="21.2.3" type="github">
   <diagram name="Page-1" id="_Vqv8WW6OiZTEPGsv7zx">
     <mxGraphModel dx="1639" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-8M5TTZG4l5jH7ryGR-H-1" value="120 iron&lt;br&gt;per min" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeWidth=2;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="-30" y="110" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-8M5TTZG4l5jH7ryGR-H-5" value="30 iron bars &lt;br&gt;per min" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="20" y="350" width="120" height="80" as="geometry" />
@@ -20,10 +20,10 @@
           <mxGeometry x="290" y="350" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-8M5TTZG4l5jH7ryGR-H-15" value="spliter" style="triangle;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="100" y="280" width="80" height="60" as="geometry" />
+          <mxGeometry x="-30" y="190" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-8M5TTZG4l5jH7ryGR-H-19" value="spliter" style="triangle;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="190" y="280" width="80" height="60" as="geometry" />
+          <mxGeometry x="240" y="190" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-8M5TTZG4l5jH7ryGR-H-30" value="15 iron&lt;br&gt;rod" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="90" y="510" width="60" height="120" as="geometry" />
@@ -75,6 +75,12 @@
         </mxCell>
         <mxCell id="-8M5TTZG4l5jH7ryGR-H-57" value="50 screw" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-50" y="620" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-8M5TTZG4l5jH7ryGR-H-60" value="Crusher" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="220" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-8M5TTZG4l5jH7ryGR-H-61" value="Crusher" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="260" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
